@@ -24,15 +24,11 @@ The workflow creates a night-view city SVG daily. Run it once manually from the 
 
 <img src="profile-3d-contrib/profile-night-view.svg?v=1" alt="3D night view of my GitHub contributions" width="100%">
 
-<div align="center">
-
-<img src="connect.svg?v=1" alt="Contact Anurag Choubey" width="100%">
+<h2 align="center">Let’s connect</h2>
 
 <p align="center">
-  <a href="https://github.com/AnuragChoubey-45">GitHub</a> ·
-  <a href="mailto:anuragchoubey2007@gmail.com">Email</a> ·
-  <a href="https://www.linkedin.com/in/anurag-choubey-368970376/">LinkedIn</a> ·
-  <a href="https://leetcode.com/u/anurag-choubey45/">LeetCode</a>
+  <a href="https://github.com/AnuragChoubey-45" target="_blank" rel="noopener noreferrer"><img alt="GitHub profile" src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white"></a>
+  <a href="mailto:anuragchoubey2007@gmail.com"><img alt="Email Anurag" src="https://img.shields.io/badge/Email-Contact%20me-7C3AED?style=for-the-badge&amp;logo=gmail&amp;logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/anurag-choubey-368970376/" target="_blank" rel="noopener noreferrer"><img alt="LinkedIn profile" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"></a>
+  <a href="https://leetcode.com/u/anurag-choubey45/" target="_blank" rel="noopener noreferrer"><img alt="LeetCode profile" src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&amp;logo=leetcode&amp;logoColor=black"></a>
 </p>
-
-</div>
