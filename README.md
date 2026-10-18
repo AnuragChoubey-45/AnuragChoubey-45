@@ -28,4 +28,11 @@ The workflow creates a night-view city SVG daily. Run it once manually from the 
 
 <img src="connect.svg?v=1" alt="Contact Anurag Choubey" width="100%">
 
+<p align="center">
+  <a href="https://github.com/AnuragChoubey-45">GitHub</a> ·
+  <a href="mailto:anuragchoubey2007@gmail.com">Email</a> ·
+  <a href="https://www.linkedin.com/in/anurag-choubey-368970376/">LinkedIn</a> ·
+  <a href="https://leetcode.com/u/anurag-choubey45/">LeetCode</a>
+</p>
+
 </div>
