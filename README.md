@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="hero.svg?v=1" alt="Anurag Choubey — computer science and AI student, frontend developer, and AI training data contributor" width="100%">
+<img src="hero.svg?v=2" alt="Anurag Choubey — computer science and AI student, frontend developer, and AI training data contributor" width="100%">
 
 <img src="about-life.svg?v=1" alt="What I build and interests beyond the editor" width="100%">
 
