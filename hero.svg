@@ -28,7 +28,6 @@
 <g transform="translate(68 386)"><circle cx="8" cy="0" r="5" fill="#22d3ee"/><text x="23" y="5" class="small">Delhi, India</text></g>
 <g transform="translate(232 386)"><rect x="0" y="-8" width="14" height="14" rx="2" fill="none" stroke="#a78bfa"/><path d="M3 -3h8M3 1h8" stroke="#a78bfa"/><text x="24" y="5" class="small">Newton School of Technology</text></g>
 <g transform="translate(68 431)"><text x="0" y="0" class="mono tiny dim">CURRENT FOCUS</text><text x="0" y="25" class="small">React · Python · MySQL · AI output evaluation</text></g>
-<g transform="translate(68 482)"><text x="0" y="0" class="mono small cyan">CONTACT LINKS BELOW</text></g>
 <!-- Real portrait held in an SVG camera-style frame; no video was supplied. -->
 <rect x="752" y="58" width="384" height="434" rx="24" fill="#090b12" stroke="#30384a"/>
 <clipPath id="hero-photo-clip"><rect x="762" y="68" width="364" height="414" rx="18"/></clipPath>
