@@ -1,16 +1,31 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**AnuragChoubey-45/AnuragChoubey-45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="hero.svg?v=1" alt="Anurag Choubey — computer science and AI student, frontend developer, and AI training data contributor" width="100%">
 
-Here are some ideas to get you started:
+<img src="about-life.svg?v=1" alt="What I build and interests beyond the editor" width="100%">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="stack.svg?v=1" alt="My technology stack orbit" width="100%">
+
+<img src="id-dashboard.svg?v=1" alt="Résumé-backed profile dashboard" width="100%">
+
+</div>
+
+## Featured projects
+
+| Project | What it does | Stack |
+|---|---|---|
+| [Employee Task Management Dashboard](https://task-flow-employee-task-management.vercel.app/) | Role-based task assignment, lifecycle tracking, and a responsive admin/employee dashboard. | React, Context API, Tailwind CSS |
+| [Password Generator Chrome Extension](https://password-generator-woad-six-34.vercel.app/) | Browser-native password generation with adjustable length and character sets. | React, JavaScript, Tailwind CSS |
+| [Travel Booking System](https://github.com/AnuragChoubey-45/TRAVEL-BOOKING-SYSTEM-BACKEND) | Console booking app with authentication, fare calculation, and MySQL-backed trip history. | Python, MySQL |
+
+## 3D contribution city
+
+The workflow creates a night-view city SVG daily. Run it once manually from the repository’s **Actions** tab to generate the first image.
+
+<img src="profile-3d-contrib/profile-night-view.svg?v=1" alt="3D night view of my GitHub contributions" width="100%">
+
+<div align="center">
+
+<img src="connect.svg?v=1" alt="Contact Anurag Choubey" width="100%">
+
+</div>
